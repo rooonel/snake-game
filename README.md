@@ -1,3 +1,7 @@
+## 📸 Screenshot
+
+![Snake Game Screenshot](screenshot.png)
+
 ## 🎮 Snake Game Demo
 
 [![Watch Demo](https://img.shields.io/badge/▶-Watch%20Demo-red)](https://github.com/rooonel/snake-game/blob/main/snake_game.mov)
